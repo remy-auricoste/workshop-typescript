@@ -15,7 +15,6 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "strictPropertyInitialization": false,
     "paths": {
       "~/*": ["./src/*", "./src/*/index"]
     }
